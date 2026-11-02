@@ -1,5 +1,3 @@
 # Choose a private installation phrase of at least 24 characters in Cloudflare.
 # Only the installer reads it; never put a supplier or Meta key here.
-SETUP_TOKEN=Vitalura-shop-2005-space49
-site_key=0x4AAAAAAFs0LzR53eOc75-b
-secret_key=0x4AAAAAAFs0L66o-ZfPv_xxyNup2K3pXLc
+SETUP_TOKEN=
