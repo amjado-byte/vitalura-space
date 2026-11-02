@@ -1,3 +1,5 @@
 # Choose a private installation phrase of at least 24 characters in Cloudflare.
 # Only the installer reads it; never put a supplier or Meta key here.
 SETUP_TOKEN=
+site_key=0x4AAAAAAFv-TXRknC-GllPI
+secret_key=0x4AAAAAAFv-TVi6qzs_F93uToiXEQu5ong
